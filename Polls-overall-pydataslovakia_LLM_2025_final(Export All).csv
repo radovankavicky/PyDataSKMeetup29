@@ -1,0 +1,36 @@
+Poll ID,Poll Type,Poll Question,Poll Option,Correct Answer,Count,Total Votes,Results
+59173874,Multiple choice (Single selection),Is data reality?,Yes,0,14,28,50%
+59173874,Multiple choice (Single selection),Is data reality?,No,0,14,28,50%
+59173872,Word cloud,Which programming language do you develop in?,,,0,0,
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,VIM,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Visual Studio,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Eclipse,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Atom,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,PyCharm,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,IntelliJ IDEA,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Fleet,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,WebStorm,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Notepad,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Sublime Text,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Jupyter notebook,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,Emacs,0,0,0,0%
+59173875,Multiple choice (Multiple selection),What IDE you are using for programming/development?,other,0,0,0,0%
+59173876,Quiz (Single correct answer),Who's on the picture?,Alan Turing,0,7,28,25%
+59173876,Quiz (Single correct answer),Who's on the picture?,Augusta Ada King (Countess of Lovelace),0,0,28,0%
+59173876,Quiz (Single correct answer),Who's on the picture?,John Tukey,1,4,28,14%
+59173876,Quiz (Single correct answer),Who's on the picture?,Some random old guy,0,3,28,11%
+59173876,Quiz (Single correct answer),Who's on the picture?,Ronald Fisher,0,1,28,4%
+59173876,Quiz (Single correct answer),Who's on the picture?,Timnit Gebru,0,0,28,0%
+59173876,Quiz (Single correct answer),Who's on the picture?,Claude Shannon,0,2,28,7%
+59173876,Quiz (Single correct answer),Who's on the picture?,Norbert Wiener,0,4,28,14%
+59173876,Quiz (Single correct answer),Who's on the picture?,Geoffrey (Everest) Hinton,0,1,28,4%
+59173876,Quiz (Single correct answer),Who's on the picture?,Marvin Minsky,0,2,28,7%
+59173876,Quiz (Single correct answer),Who's on the picture?,"DJ Patil of course (who ""coined"" the term ""Data Science"")",0,4,28,14%
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",2,,1,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",3,,1,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",5,,2,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",6,,2,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",7,,5,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",8,,7,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",9,,7,27,7.4
+59173873,Rating (1-10),"How would you rate this talk? (scale 1-10, 10 is awesome, 5 is meh, 1 is worst talk ever, but ""try again, fail again, fail better"")",10,,2,27,7.4

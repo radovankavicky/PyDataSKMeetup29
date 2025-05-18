@@ -1,0 +1,21 @@
+Question text,Score,Upvotes,Downvotes,Highlighted,Status,Participant ID,Participant Name,Sentiment,Submission Date,Submission Time
+Why?,1,1,0,0,Answered,596161882,Radovan Kavicky,neutral,05/14/2025,12:08:44
+Well...,0,0,0,0,Answered,596161882,Radovan Kavicky,,05/14/2025,12:09:36
+What’s one misconception people have about agents or LLMs that you’d love to bust today?,1,1,0,0,Answered,596346728,Rene,neutral,05/14/2025,17:20:43
+Does combining LLMs with tools and memory create a thinking system or just a more capable mimic? What’s still missing for real general intelligence?,2,3,1,0,Answered,596346728,Rene,neutral,05/14/2025,17:27:51
+When deploying autonomous agents how (or is it even possible) to prevent them from inventing implicit secondary goals which deviate from their original goal? E.g. like when recently agents that were supposed to improve in chess started attacking stockfish servers instead,1,1,0,0,Answered,596360400,Ladislav Macejak,neutral,05/14/2025,17:29:33
+"We treat agents like a data science problem tweaking models and prompts but isn’t the real challenge product design, UX, and reasoning flow? ChatGPT works because of the experience, not just the model. Are we focusing too much on engineering and not enough on design?",0,1,1,0,Live,596346728,Rene,negative,05/14/2025,17:33:08
+What is the function of an attention mechanism in a large language model (LLM)?,0,0,0,0,Withdrawn,,Anonymous,neutral,05/14/2025,17:35:22
+Do you think that it is possible to create an AGI based on a language model? Would it be able to innovate considering that it is trained to provide essentially likely responses based on intelligent context processing?,1,2,1,0,Answered,596352077,Vladyslav Romanov,neutral,05/14/2025,17:46:43
+"If data on which LLMs are tained is not reality, how can we expect an LLM to evaluate and predict the reality (e.g. in macroeconomics).",-1,0,1,0,Live,596355872,Jakub,neutral,05/14/2025,17:47:36
+How does ChatGPT almost always has the most recent data? From what I understand the model itself must have cut-off date. For example 2023 year. Does it mean that all fresh context is injected from RAG into the request to the ChatGPT‘s model every time?,-1,0,1,0,Withdrawn,,Anonymous,neutral,05/14/2025,17:48:40
+Will MCP make RAG obsolete?,5,5,0,0,Answered,596360400,Ladislav Macejak,negative,05/14/2025,17:51:32
+Don't you find it totally ridiculous that we mine and spend precious minerals and electricity just to have better auto complete or entertainment shows with multiple endings?,0,1,1,0,Live,596359897,Lukas,negative,05/14/2025,17:52:54
+What can we use to automatically test RAGs for accurate results?,1,1,0,0,Answered,596360400,Ladislav Macejak,neutral,05/14/2025,17:56:16
+So does it even make sense to focus on traditional ML anymore?,0,1,1,0,Live,596351033,Matej,neutral,05/14/2025,18:07:43
+"Do you think storing consciousness in computers will ever be feasible? How could we assure the “stored” person is truly conscious, and the software is not just immitating human’s behavior. Also, if it can be stored, it can be copied. Will a single person have multiple consciousnesses?",1,2,1,0,Answered,596351111,Patrik GoldGoldGoldGold,negative,05/14/2025,18:08:17
+So the Perun will specialize in corruption and fraud right?,0,0,0,0,Live,596359897,Lukas,neutral,05/14/2025,18:15:38
+How confident are you about AGI between 2026-2030? ,-1,0,1,0,Live,596350850,MC,neutral,05/14/2025,18:22:37
+Isnt the opinion that AGI will arive in a few years just wishful thinking of CEOs that try to raise funds ? They make their own AGI definitions,1,2,1,0,Answered,596350943,Matko,neutral,05/14/2025,18:23:10
+How do you think we should balance the need for model transparency and explainability (XAI) with the pursuit of ever more powerful and complex AI models?,1,1,0,0,Answered,596360097,Ruth,neutral,05/14/2025,18:24:00
+"Do you see any benefit to the ""common man"" of LLMs in terms of losing jobs vs creating new jobs ? Will big companies not win more ? ",0,0,0,0,Live,596350943,Matko,neutral,05/14/2025,18:35:55
